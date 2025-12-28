@@ -1,5 +1,5 @@
 # ASM shell_reverse_tcp
-Builder script expropriated to metasploit-framework (modified by Vay3t to allow custom IP/port/exitfunc).
+Builder script expropriated to metasploit-framework (modified by Vay3t to allow custom IP/port/exitfunc for shellcode modding).
 
 # Help
 
